@@ -1,3 +1,5 @@
+[English](./README.md) | [简体中文](./README.zh-CN.md) | [繁體中文](./README.zh-TW.md) | [日本語](./README.ja.md) | [한국어](./README.ko.md)
+
 # iOS 27 Widget Animation
 
 Commercial iOS widget animation SDK for Home Screen widgets, with perfectly supports **iOS 27** support, resolve the issue of **ClockHandRotationKit** not functioning correctly on iOS 27, also **ClockHandRotationKit** migration compatibility, and TopWidget **SwingAnimation-style** effects.
