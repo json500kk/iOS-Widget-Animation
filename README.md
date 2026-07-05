@@ -8,6 +8,12 @@ Commercial iOS widget animation SDK for Home Screen widgets, with iOS 27 support
 
 This public repository is a showcase only and does not include the private source code.
 
+## Visual effects
+
+![Widget Animation Demo](./demo.gif)
+
+[Watch the full demo video](./demo.mp4)
+
 ## Highlights
 
 - Supports animated Home Screen widgets on iOS 27
