@@ -35,3 +35,7 @@ If your project already uses `ClockHandRotationKit`, this SDK is designed to mak
 ### TopWidget SwingAnimation Compatibility
 
 If you want animation behavior similar to `TopWidget`'s `SwingAnimation`, this SDK provides compatible motion capabilities for that style of effect.
+
+### Contact
+
+jsonkk500@gmail.com
