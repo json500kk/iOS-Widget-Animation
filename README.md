@@ -12,7 +12,7 @@ This public repository is a showcase only and does not include the private sourc
 
 ![Widget Animation Demo](./demo.gif)
 
-[Watch the full demo video](./demo.mp4)
+[Watch the full demo video](./demo.mov)
 
 ## Highlights
 
